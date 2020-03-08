@@ -1,0 +1,28 @@
+body {
+    /* background-color: red; */
+}
+
+.title {
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    width: 300px;
+    /* border: 1px red solid; */
+    text-align: center;
+    padding-top: 3em;
+}
+
+.url_input {
+    padding: 0.5em;
+    border: 1px rgb(255, 102, 0) solid;
+}
+
+.submit_btn {
+    padding: 0.5em;
+    border-radius: 10%;
+    border: 0;
+    background-color: rgb(255, 102, 0);
+    color: white;
+}
